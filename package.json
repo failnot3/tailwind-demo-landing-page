@@ -4,7 +4,9 @@
   "description": "A Tailwind exercise.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/theDTS1/tailwind-demo-landing-page/issues"
   },
-  "homepage": "https://github.com/theDTS1/tailwind-demo-landing-page#readme"
+  "homepage": "https://github.com/theDTS1/tailwind-demo-landing-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
