@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-demo-landing-page",
+  "version": "0.0.1",
+  "description": "A Tailwind exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDTS1/tailwind-demo-landing-page.git"
+  },
+  "author": "Drago Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theDTS1/tailwind-demo-landing-page/issues"
+  },
+  "homepage": "https://github.com/theDTS1/tailwind-demo-landing-page#readme"
+}
