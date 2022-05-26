@@ -12,3 +12,6 @@ I've build an landing page with the help of Tailwind magic.
 >It's fast, flexible, and reliable — with zero-runtime.
 
 Source: [Tailwind docs](https://tailwindcss.com/docs/installation)
+
+# Live demo:
+[Click HERE for a live demo](https://tailwind-demo-landing-page-thedts1.netlify.app/)
